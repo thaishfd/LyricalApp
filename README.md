@@ -1,2 +1,3 @@
 # LyricalApp
 Projeto da disciplina de Aplicações Móveis
+No aplicativo, teremos funções semelhantes a um Blog, onde será criado e compartilhado Minicontos (um tipo de conto bem curto que apresenta uma narração completa utilizando o mínimo de palavras possíveis, sendo por isso necessário uma limitação de caracteres). Os usuários poderão fazer um cadastro, com o qual possuíram um perfil no qual acessarão seus status. Além disso, poderão publicar seus Minicontos e visualizar os Minicontos e os status de outros usuários. No mais, haverá interação entre os usuários do aplicativo, como comentar, compartilhar, dar um "gostei" ou um "não gostei".
